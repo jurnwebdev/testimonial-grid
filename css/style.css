@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.daniel{
+    background-color: #733FC9;
+}
+
+.jonathan{
+    background-color: #48556B;
+}
+
+.jean{
+    background-color: aqua;
+}
+
+.patrick{
+    background-color: brown;
+}
+
+.kira{
+    background-color: blanchedalmond;
+}
+
+.image-prop{
+    border: 2px solid white;
+    border-radius: 100%;
+}
+
+.name{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 !important;
+}
+
+.verify{
+    font-size: 10px;
+}
+
+.review-title{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.review{
+    font-size: 10px;
+}
+
+.no-pad{
+    padding: 0 !important;
+}
